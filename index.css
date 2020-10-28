@@ -9,7 +9,7 @@ body {
 
 .header__backdrop {
   position: relative;
-  height: 200px;
+  height: 150px;
   width: 100%;
   background-color: black;
 }
