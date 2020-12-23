@@ -31,8 +31,9 @@ body {
 }
 
 .main-body__text {
-  padding-left: 10%;
-  padding-right: 10%;
+  padding-left: 16%;
+  padding-right: 16%;
+  text-align: left;
 }
 
 .logo-container {
@@ -41,4 +42,8 @@ body {
 
 .logo-container > a {
   margin: 8px;
+}
+
+.top-links {
+  text-underline-offset: 1pt;
 }
